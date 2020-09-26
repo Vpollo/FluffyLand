@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{47FF3758-1785-A3EE-E8A6-4E6721F0C25B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BuyMaskScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AgentPandemic.cs" Line="52" Column="37" />
+      <File FileName="Assets/Scripts/healthStats.cs" Line="24" Column="34" />
+      <File FileName="Assets/Scripts/Movement.cs" Line="30" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/MoneySystem.cs" Line="17" Column="39" />
+      <File FileName="Assets/Scripts/BuyMaskScript.cs" Line="6" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FluffyLand2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="BuyMaskScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6cedacc7-f918-4795-a0ca-56bfd98e8ad3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
